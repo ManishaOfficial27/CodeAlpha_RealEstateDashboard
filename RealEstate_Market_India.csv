@@ -1,0 +1,11 @@
+Date,City,Location,Property Type,Size (sqft),Bedrooms,Price (INR Lakhs),Rental Price (INR/month)
+2024-01-31,Mumbai,Andheri,Apartment,950,2,120,30000
+2024-02-29,Delhi,Saket,Apartment,1100,3,150,40000
+2024-03-31,Bangalore,Whitefield,Villa,2000,4,350,70000
+2024-04-30,Chennai,T. Nagar,Apartment,1300,3,170,35000
+2024-05-31,Hyderabad,Banjara Hills,Villa,2500,4,400,80000
+2024-06-30,Pune,Koregaon Park,Apartment,1200,3,160,37000
+2024-07-31,Kolkata,Salt Lake,Villa,1800,3,300,65000
+2024-08-31,Ahmedabad,Navrangpura,Apartment,1000,2,140,32000
+2024-09-30,Jaipur,Malviya Nagar,Apartment,1050,2,145,33000
+2024-10-31,Lucknow,Gomti Nagar,Villa,2200,4,360,75000
